@@ -1,2 +1,2 @@
-# Statistical_Genetics_in_R
+# Learning Statistical Genetics using R
 My statistical genetics explorations in R.
